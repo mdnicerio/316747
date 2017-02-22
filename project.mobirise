@@ -1,0 +1,584 @@
+{
+  "settings": {
+    "name": "Bitqyck Compensation Plan",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 63,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/new-128x128.png",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Bitqyck Compensation Plan",
+        "meta_descr": "Bitqyck Compensation Plan",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-z",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-1400x786.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-10",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2-1-1400x786.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-1g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><u><b>Retail Commission:</b></u> this commission pays the affiliate 10-percent on any personally enrolled&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">customer purchase of a bit quick product&nbsp;option that includes bitqy. The affiliate will also earn a 100-percent match on&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">the retail sales commissions of their personally enrolled&nbsp;affiliates. That's 10-percent on your personal sales and 10-percent on the sales of your personally&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">enrolled affiliate sales.&nbsp;<b>This commission is paid weekly.</b></span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-11",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/3-1-1400x786.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-12",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/4-1400x786.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-1h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><u>Match Pay Commission:&nbsp;</u></b><span style=\"font-size: 1.07rem; line-height: 1.5;\">this commission is also paid weekly and&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">is based on a rolling 60-day qualifier. T</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">here are two types of match pay&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">commission that can be earned&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">the first type is a <b>Gold bitqyck&nbsp;</b></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Affiliate or GBA</b> and the second type is a&nbsp;<b>Platinum bitqyck Affiliate or PBA</b>.</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-13",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/5-1400x786.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-1i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><u>Gold bitqyck&nbsp;</u></b><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b><u>Affiliate or GBA:</u></b> to be a GBA you must on&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">a rolling 60 day basis enroll a minimum&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">of two affiliates whose teams generate a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">combined total of four thousand dollars&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">in group retail sales volume no more&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">than two thousand dollars of that volume&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">may be produced from anyone. Team A - GBA&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">can have unlimited affiliate teens in&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">width and depth to qualify. Gold&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Affiliate qualifiers earn 50-percent&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">match pay on all affiliate retail sales&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">commissions earned down to and including&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">the next Gold Affiliate matched a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">qualifier.</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-14",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/6-1400x786.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-1j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><u>Platinum bitqyck Af</u></b><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b><u>filiate or PBA:</u></b> to be a PBA</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;you must enroll a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">minimum of two affiliate whose teams&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">generate a combined total of ten&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">thousand dollars group retail sales&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">volume no more than five thousand&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">dollars retail sales volume, may be&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">produced from any one leg and a PBA can&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">have unlimited affiliate teams in width&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">and depth to qualify. PBA qualifier&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">earns 50-percent match pay on all&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">affiliate retail sales commissions&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">burned down to and including the next to PBA</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;qualifiers.</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-15",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/7-1400x786.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-1k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Exclusive Commission&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">PLATINUM Match Qualified Affiliate&nbsp;</span></b><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>or PMQ:</b> it is a Match the Match pay&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">commission. To qualify you must&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">personally enroll two affiliates who are&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">PBA match pay qualifiers and you&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">must personally be level 2 PBA&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">match pay qualified. Match the Match pay&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">qualifiers earn 50-percent match pay&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">in bitqy on all affiliates retail&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">sales commissions burned down to and&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">including the first PMQ.</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-16",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/8-1400x786.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-17",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/9-1400x786.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-1m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><u>Three bitqyck Product&nbsp;</u></b><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b><u>Options for Purchase:</u></b> The first&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">is 199-dollars product-equivalent to&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">200-dollars in bitqy coins&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">and comes with one Business Enroller&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Certification or BEC with a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">200-dollars Commission Value. The second is 349-dollars product-equivalent to 400-dollars in bitqy coins and comes with two Business Enroller Certification or BEC with a 350-dollars Commission Value. &nbsp;The third is 499-dollars product -equivalent to 600-dollars in bitqy coins and comes with three Business Enroller Certification or BEC with a 500-dollars Commission Value. B</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">usiness Enroller Certifications&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">may be sold or gifted to a new affiliate&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">by the purchase of the BEC</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;including the&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">bitqy coins.</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-18",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/10-1400x786.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-1q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Business Enroller Certifications</b>&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">may be sold or gifted to a new affiliate&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">by the purchase of the BEC</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;including the&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">bitqy coins.</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-19",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/11-1-1400x786.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-1n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>For example the 499-dollars bit<span style=\"font-size: 1.07rem; line-height: 1.5;\">qyck product options will give the&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">purchaser 200-dollars in bitqy coins that&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">allocates 10,000 points which includes a&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">thousand shares of this bitqyck common&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">stock, the BEC training and still they&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">would have the option to sell two 199-</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">dollars bitqyck product from their&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">purchase returning 398-dollars of the&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">original purchase price. The BEC and bitqy&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">coins must be authorized and distributed&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">from the purchasing customer or&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">affiliate to the new designated customer&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">or affiliate.</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1a",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/12-1400x786.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1b",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vicky-1400x786.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "image2-1p",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=EUItToYt5JQ",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Watch bitqyck Affiliate Compensation Plan in Video Format"
+        }
+      ]
+    }
+  }
+}
